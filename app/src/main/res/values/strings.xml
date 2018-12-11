@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Thread Pool  Executor</string>
+    <string name="add_callable">Add Callable</string>
+</resources>
